@@ -1,0 +1,425 @@
+[MUSIC]
+Hello again and welcome back to Beyond
+Silicon Valley.
+I'm Michael Goldberg.
+In previous lectures, we've discussed
+government support for
+entrepreneurship, the role of philanthropy
+and intermediary organizations.
+This week, we'll explore ways to leverage
+Anchor Institutions.
+Some key points you'll learn about are,
+supporting increased
+commercialization activity, licensing
+versus new
+company formation and measuring success.
+Cleveland, like many communities around
+the world, is fortunate
+to have outstanding research institutions
+including universities and hospitals.
+My home university Case Western Reserve
+attracts
+over $400 million each year in research
+funding.
+And the region is also home to several
+other strong research universities such as
+Cleveland State, the University of Akron
+and Kent State just to name a few.
+The Cleveland Clinic is the number one
+ranked hospital in the world for
+cardiovascular disease.
+And University Hospitals is another
+leading
+health care provider in our region.
+10 years ago Cleveland's anchor
+institutions were struggling to
+translate their research into commercially
+viable technologies or companies.
+There was not a culture of
+entrepreneurship, or was
+their a vibrant system for creating,
+promoting, or nurturing innovation.
+Institutions were focused on licensing
+their technologies
+to large corporations, typically outside
+the region.
+Rather than creating local startup
+companies.
+New initiatives, funded by the Third
+Frontier and donors,
+focused on strengthening the
+commercialization process at key
+institutions.
+As a result, the pace of new company
+formation increased.
+In this lecture, we will discuss how
+communities can work with their anchor
+institutions.
+To link their engines of innovation, such
+as universities, to
+a connected web of support that includes
+entrepreneurs, investors, and talent.
+The combination of political will, a long
+view, and
+investment capital can improve the
+pipeline of start up companies.
+Dave Neundorfer is the CEO of LineStream
+Technologies LineStream Technologies is an
+embedded software company.
+And we are changing the way that automated
+products are
+controlled by delivering easy to
+use software that delivers advanced
+performance.
+>> LineStream's technology was buried in a
+research lab for 12 years, until a
+venture capitalist, backed with investment
+capital from
+the State of Ohio, and several
+foundations.
+Provided the resources of mentoring and
+management talent
+to turn it into a stand alone startup
+company.
+>> LineStream spun out of Cleveland State
+University in 2008.
+I believe we were if not the first, one of
+the first spin out companies that they,
+that they had.
+And the catalyst for this spin out was
+actually a business planning competition.
+Where the Professor Dr. Zhiqiang Gao who
+had been leading about 10 to 12 years of
+research in the space, put together a
+presentation
+to show how, his technology could apply to
+industry.
+And how they could potentially build
+business around it
+in our current investors happened to be in
+the audience.
+For that meeting, the stars aligned.
+They were able to meet and discuss the
+blueprint for taking it, out
+of the research realm at CSU, and
+beginning it on the path towards
+commercialization.
+For decades it was well understood that
+universities and
+hospitals were developing innovative ideas
+and cutting edge research.
+But turning this into a pipeline of
+independent high growth companies was a
+struggle.
+Frank Samuel, the state of Ohio's former
+Science and Technology
+Advisor, explains why the Third Frontier
+focused on this opportunity.
+Well the institutions are important for
+two reasons.
+One is that they create intellectual
+property through their research, and
+they're the
+source of highly qualified individuals,
+often young
+individuals who can contribute to
+entrepreneurial enterprise.
+Jackie Acho, then a McKinsey partner
+working
+on the regional strategy to support
+entrepeneurship, recalls
+why their recommendations pushed for
+Cleveland to
+try to take better advantage of its
+university.
+>> We really wanted to create a pathway
+through which technological ideas coming
+out of universities or.
+From, you know, people in businesses who
+wanted to
+go off on their own, could find uh,a
+market,
+and a place to get capital, and some
+support
+to be able to start their company and grow
+it.
+>> Baiju Shah, former CEO of Bio
+Enterprise argues that in the past the
+region had not appropriately invested in
+the
+commercialization of technology out of the
+Institution.
+One of the clear strengths that we had.
+That we have probably under invested in,
+from an economic development
+perspective, was our region's great
+clinical and research institutions, in
+healthcare.
+We are known in the United States for...
+Our political institutions.
+They're considered to be among the best in
+the country.
+We've got a great research university that
+has
+a whole host of research but in spite of
+that, unlike, again, other regions where
+similar ingredients existed,
+we hadn't seen the growth of our
+healthcare economy.
+The products and services that supply
+those types of institutions
+and, ultimately, supply institutions
+across the country and the world.
+Why were Cleveland's leading institutions
+struggling
+to turn their research into new company.
+Steven Girouard was formerly a Vice
+President of
+Johnson and Johnson's Corporate Office of
+Science and Technology.
+>> Why don't universities do a great job
+of commercializing technology.
+It's really not their expertise.
+You know, they're great at educating.
+They're great at publishing papers and
+writing grants and getting.
+Basic research funded but they really are
+not good at design and wrapping
+business models around designs that will
+be successful in the in the real world.
+>> An example of Cleveland's attempt to
+change the velocity of commercialization
+activity coming
+out of the institutions was the creation
+of the Global Cardiovascular Innovation
+Center or GCIC.
+housed at the Cleveland Clinic.
+The GCIC was funded by a grant from the
+third
+frontier matched with investment from
+institution partners, including the
+Cleveland Clinic.
+Mark Low, GCIC's executive director,
+provides an overview.
+>> Step back a minute, GCIC was formed
+with a very generous.
+$60 million grant from the state of Ohio
+to establish the organization.
+And of that roughly half is dedicated to
+in turn
+provide support to new technology
+development and new company formation.
+>> Charu Ramanathan's CardioInsight whose
+technology was
+developed in a lab at Case Western Reserve
+University.
+With one of the companies that benefited
+from GCIC's grants.
+>> So, so the another vehicle that we use
+state funded money, is, GCIC.
+So, the GCIC and the Cleveland Clinic
+Foundation, it
+was right on because we were
+cardiovascular innovative technology.
+So we actually develop three different
+clinical applications in heart failure, in
+catheter
+navigations signalling the location of the
+catheter
+which is a very important clinical impact.
+As well as building our first commercial
+software.
+All of these three key aspects of the
+product were developed with money invested
+through the GCIC.
+>> Although some start up companies grab
+the headlines
+for how quickly they are able to scale and
+grow.
+Most early stage companies, particularly
+those in
+the medical industry, take many years to
+develop.
+Mark Low argues the grants that the GCIC
+provides, help
+companies like CardioInsight survive,
+until private funding is secured.
+>> So the financing continuum or resources
+for any particular
+technology Has become a multi step, multi
+source
+process that spans a development timeline
+of biomedical products
+of anywhere from three to five to 10
+years.
+So it's a long process, requires
+significant.
+Amounts of funding and a continuum of
+availability
+of that funding to move the products
+forward.
+Well that leaves the very early stage
+technologies without much support.
+>> Joe Jankowski Case Western Reserve's
+Chief Innovation Officer, describes why he
+believes that Cardio Insight made
+investment sense as a spin off company.
+>> Cardio Insight was really a technology
+that had existed a
+case for almost a decade prior to the
+company being created.
+And the company was created by two
+students, who then were still working on
+their
+PhDs in the lab of the original, inventor,
+and realized that there was value here.
+The thing that made it easy to consider it
+a local spin off was, was two factors.
+One is, it couldn't go to a large company,
+the Medtronic for Johnson and Johnson, it
+was too
+early, there was too much technical risk,
+so it
+wasn't as though we had a tough choice to
+make.
+The second reason was, because it's early
+stage
+um,developments, commercial development
+would need to be, in the
+field of what we call clinical translation
+of getting
+that sort of first in man study of the
+term.
+We had one of the worlds great, you know,
+cardiology sectors here in Cleveland.
+>> Since private companies such as Johnson
+& Johnson
+tend to only invest in companies that are
+more well
+established, Steve Girouard sees the
+importance that government programs
+like The Third Frontier, filling the early
+stage capital gap.
+>> So The Third Frontier and programs like
+it are, I think are really important.
+They're organized in a way that can really
+make an impact.
+First of all, they're substantial in terms
+of their size, the total
+magnitude of financial resources put
+behind
+that program are, can make a difference.
+They're also Have a long view, which I
+think is really critical for programs like
+this.
+>> Bruce Katz of the Brookings
+Institution, believes that Northeast Ohio
+has
+acted wisely by trying to leverage the
+strength of its Innovative Institutions.
+>> So, Northeast Ohio is really fortunate
+to have this network of advanced research
+institutions, medical campuses, that are
+really at the cutting edge of innovation.
+They're service institutions right?
+They're teaching the next generation of
+workers, students, I mean leaders.
+They're providing health care, but they're
+also very innovative.
+Right, they're at the next stage of
+biotech, biomed,
+and cracking the code on a wide range of
+diseases.
+And that plays itself out, into
+the private sector as we commercialize
+Innovation.
+>> Brad Whitehead, of The Fund for Our
+Economic Future, concurs with
+Katz, about trying to harness the
+innovation of anchor institutions to boost
+entrepreneurship.
+>> Anchor institutions sit at the
+foundation of most economic development
+strategies of regions around the country
+and frankly around the world.
+Part of the kind of, well recognized
+reason for that is that is because they're
+a source of ideas, a source of talent a
+source of innovation and so forth.
+One of the, I think unsung roles that our
+anchor
+institutions in Northeast Ohio have
+played has, it's provided us.
+The foundation for which we can also serve
+the rest of the region.
+>> Communities outside the U.S. face many
+of the same challenges we have
+heard about in Cleveland regarding how
+to commercialize research from their
+leading institutions.
+Chris Zobrist is a professor at the
+Vietnman National University.
+>> Until now, I think most government
+research institutes
+and haven't had that much interaction in
+terms of commerce.
+I think most of the research so far that's
+come out is largely driven by
+Government Initiatives and whatever the
+professors in the
+university could, could get [SOUND]
+Government sponsorship for.
+And typically it wasn't that marketed
+oriented.
+>> Yi Zhang is a venture capitalist with
+Kaiwu Capital in China.
+Compared to the university in US.
+They're still not very good at converting
+R&D into real commercial available
+product.
+I know recently, they've been spending
+lots of effort in that direction.
+Every university has a patent office.
+And help with tech IP, and also give you
+specific instruction on how you can
+commercialize this part.
+>> In Cleveland and other communities
+around the world anchor institutions
+are trying to translate their research
+strengths into commercial viable entities.
+Ultimately the private market determines
+the commercial success of a technology.
+The ability of companies like CardioInsight and
+LineStream Technologies to raise private
+venture capital financing.
+Validates the initial investment by
+government
+and donors in the commercialization
+process.
+As with other forms of early stage
+investment the final measurement
+of success and support will be determined
+over the long term.
+With the necessary support, anchor
+institutions
+are showing the ability to leverage
+their ideas and talent, instead of letting
+them gather dust in lab.
+Success is measured in terms of the number
+of startup
+companies launched, the amount of outside
+private capital raised, the
+creation of good local jobs, and
+ultimately, revenue back to
+the institution after an exit event or
+through licensing fee.
+That's it for this lecture of Beyond
+Silicon Valley.
+In the next lecture, we'll focus on the
+emergence of Seed Accelerators
+and how government and donors support
+is fueling their growth and transitioning
+economy.
+See you next time.
+[MUSIC]
+
